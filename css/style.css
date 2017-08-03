@@ -14,6 +14,7 @@
 }
 .left{
   float: left;
+  margin-left: 10px;
 }
 .blue{
   color: blue;
@@ -35,4 +36,13 @@
 .right{
   float: right;
   width: 85%;
+}
+.panel-title{
+  font-weight: bold;
+}
+.img-thumbr{
+  display: block;
+  float: left;
+  width:160px;
+  height:160px;
 }
