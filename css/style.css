@@ -1,0 +1,10 @@
+.panel-body{
+  background-color:#cef2e0;
+  text-align: left;
+}
+.img-thumbnail{
+  display: block;
+  width:100px;
+  height:126px;
+  float: right;
+}
