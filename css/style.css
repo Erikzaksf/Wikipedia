@@ -8,3 +8,31 @@
   height:126px;
   float: right;
 }
+.subject {
+  float: right;
+  color: blue;
+}
+.left{
+  float: left;
+}
+.blue{
+  color: blue;
+}
+.jumbotron > p{
+  font-size: 15px;
+}
+.img-thumb{
+  display: block;
+  width:160px;
+  height:160px;
+  }
+.list{
+
+  color: blue;
+  width: 200px;
+  margin-top: 20px;
+}
+.right{
+  float: right;
+  width: 85%;
+}
